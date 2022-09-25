@@ -7,7 +7,7 @@ Software and account requirement:
     2. Heroku account
     3. VS code IDE
     4. GIT cli
-
+    5. Git command doc https://git-scm.com/docs/git
 Creating a conda virtual environment
 ```
 conda create -p venv python==3.7 -y
